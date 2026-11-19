@@ -73,7 +73,7 @@ export default function AppShell({
       <header className="topbar">
         <Link className="logo" href="/explore">
           <span className="logo-mark">Q</span>
-          Q-net
+          <span className="logo-text">net</span>
         </Link>
         <form className="search" onSubmit={handleSearch}>
           <span>🔍</span>

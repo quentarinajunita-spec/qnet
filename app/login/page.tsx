@@ -40,7 +40,7 @@ export default function LoginPage() {
       <div className="login-brand">
         <div className="brand-logo">
           <span className="logo-mark">Q</span>
-          Q-net
+          <span className="logo-text">net</span>
         </div>
         <div className="brand-hero">
           <h1>Ruang karya digital untuk kreator.</h1>
